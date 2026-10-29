@@ -9,3 +9,6 @@
 .project-card.featured[hidden]{display:none}.case-grid{align-items:start}
 
 .hero .actions{flex-wrap:wrap;gap:20px}.hero .actions .textlink{white-space:nowrap}.project-card.featured .project-visual strong{font-size:clamp(29px,3.5vw,46px);line-height:1.25}html[dir=rtl] .project-card.featured .project-visual{direction:rtl}.stats .stat .num{overflow-wrap:anywhere}
+
+/* Keep the identity and both navigation controls within narrow phone screens. */
+@media(max-width:360px){.top .nav{padding-inline:16px;gap:8px}.top .brand{flex:1;min-width:0}.top .brand>span:last-child{min-width:0;overflow-wrap:anywhere}.top .mark,.top .navtools{flex-shrink:0}.top .brand strong{font-size:9px}.top .brand small{font-size:6px;letter-spacing:0}}
