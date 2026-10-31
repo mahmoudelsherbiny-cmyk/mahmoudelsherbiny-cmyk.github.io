@@ -82,7 +82,7 @@ for t in [
 job('System Analyst & Accounting Trainer','New Vision Integrated Systems (Yusuf Abdullah Juffali Group)','Riyadh, Saudi Arabia','Dec 2009 - Apr 2010')
 bullet('Trained accountants on general ledger, inventory and fixed asset modules; configured accounting systems and supported reporting, error resolution, year-end close and data validation.')
 section('EDUCATION & PROFESSIONAL DEVELOPMENT')
-p('<b>CMA studies - Institute of Management Accountants (IMA):</b> Part 1 passed; Part 2 in progress. Certification not yet complete.')
+p('<b>CMA studies - Institute of Management Accountants (IMA):</b> Part 1 passed; Part 2 in progress, with completion planned for early 2027. Certification not yet complete.')
 p('<b>Bachelor of Commerce (Accounting)</b> - Mansoura University, Egypt | 2009')
 section('LANGUAGES')
 p('Arabic: Native | English: Advanced')
