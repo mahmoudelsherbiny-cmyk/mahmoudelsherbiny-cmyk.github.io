@@ -52,7 +52,6 @@ for t in [
  'Established product-level costing and investigated inventory valuation and cost-of-sales discrepancies using independent Excel calculations. Sales price-and-volume analysis led to a mix review and my recommendation to suspend a low-profitability item pending cost correction; it returned after a mold redesign. A second product was repriced. New-mold investment required owner approval.',
  'Led a nine-month Odoo implementation connecting purchasing, inventory, manufacturing, sales and accounting. Owned requirements, partner negotiation and coordination, financial and operational configuration, and data migration with specialist partner support. Recreated a full year of transactions in parallel, reaching same-day entry across legacy and new systems.',
  'Recommended and followed a mold redesign with technical specialists. Reported scrap per operating hour fell 70%; internal before/after comparisons indicated approximately 39% lower unit cost, including changes in product weight and scrap.',
- 'Negotiated a 2% settlement discount on overdue customer receivables within delegated authority. The customer paid on the day of negotiation; funds appeared in the bank account the following day.',
  'Manage VAT, Zakat and ZATCA compliance and strengthen policies and controls over AR/AP, banks, inventory, fixed assets and manufacturing costs.'
 ]:bullet(t)
 
@@ -63,6 +62,7 @@ for t in [
  'Managed project accounting, budgets, cost estimates, cost monitoring, working capital and financial reporting in coordination with project teams.',
  'Introduced a close calendar and checklist with task owners. Reduced close-to-report-submission time from 10 to 5 to 3 working days across three consecutive monthly closes. Reports went to the Finance Director for review on day 3; exceptional cycles required up to 5 working days.',
  'Prepared monthly cash forecasts covering 45-90 days. Identified a funding gap around the first quarterly loan installment and other commitments, rebuilt the cash budget and negotiated early settlement within delegated authority. Funds were available 25 days before the requirement.',
+ 'Negotiated a 2% settlement discount on overdue customer receivables within delegated authority. The customer paid on the day of negotiation; funds appeared in the bank account the following day.',
  'Monitored receivable aging and collection quality, supplier and subcontractor payments, and project variances; implemented cost controls to support management decisions and profitability.'
 ]:bullet(t)
 job('Chief Accountant','Smile Factory','Mansoura, Egypt','Jan 2018 - Jun 2022')
