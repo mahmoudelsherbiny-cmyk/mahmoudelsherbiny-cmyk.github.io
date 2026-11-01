@@ -65,9 +65,9 @@ for t in [
  'Negotiated a 2% settlement discount on overdue customer receivables within delegated authority. The customer paid on the day of negotiation; funds appeared in the bank account the following day.',
  'Monitored receivable aging and collection quality, supplier and subcontractor payments, and project variances; implemented cost controls to support management decisions and profitability.'
 ]:bullet(t)
-job('Chief Accountant','Smile Factory','Mansoura, Egypt','Jan 2018 - Jun 2022')
+job('Finance Manager','Smile Factory','Mansoura, Egypt','Jan 2018 - Jun 2022')
 for t in [
- 'Led budgeting, forecasting, cost-reduction initiatives, financial analysis and weekly, monthly and quarterly reporting to senior management.',
+ 'Reported directly to the CEO. Led budgeting, forecasting, cost-reduction initiatives, financial analysis and weekly, monthly and quarterly reporting.',
  'Managed balance sheet reconciliations, capital expenditure monitoring, production and inventory reporting, and financial policies and controls. Served as a key contact for system audits and ERP financial processes.'
 ]:bullet(t)
 job('Senior Accountant','Kayan Alrasheed Interior Design & Furniture','Dammam, Saudi Arabia','Jun 2014 - Apr 2017')
